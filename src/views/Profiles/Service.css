@@ -12,8 +12,11 @@
     padding-bottom: 2rem;
 }
 .services .boxes{
-  display: flex;
-  justify-content: space-evenly;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    grid-template-columns: repeat(3,auto); 
+    text-align: center;
+    align-items: center; 
 }
 
 

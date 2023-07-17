@@ -18,11 +18,10 @@
 .about .left-content img{
     display: flex;
     margin: auto;
-    width: 70%;
-    height: 90%;
+    width: 60%;
+    /* height: 90%; */
+    border-radius: 50%;
     position:relative;
-    animation-duration: 1s;
-    animation-name: animation1;
     animation-iteration-count: infinite;
     color: var(--aqua);
 }

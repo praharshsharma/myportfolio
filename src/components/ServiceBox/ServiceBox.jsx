@@ -17,6 +17,7 @@ function ServiceBox(props) {
        <div className="card">
           <div class="box">
             <div className="icon"><img src={props.icon} alt='img' /></div>
+            <br />
             <div className="heading">{props.heading}</div>
           </div>
         </div>    

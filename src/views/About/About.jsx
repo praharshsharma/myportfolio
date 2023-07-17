@@ -5,7 +5,7 @@ import Aos from "aos"
 import { useEffect } from 'react'
 import 'aos/dist/aos.css'
 
-import img9 from '../../images/about_page.png'
+import img9 from '../../images/about_page.jpeg'
 
 function About() {
   useEffect(() =>{
@@ -17,14 +17,13 @@ function About() {
     <>
     <div id="About" className="about">
       <h1>About me</h1>
-      <div className="about-flex" data-aos = "fade-up">       
+      <div className="about-flex">       
         <div className="left-content">
         <img src={img9} alt="" />
         </div>
         <div  className="right-content">
-        <h2>I'm Ahmed</h2>
-        <p>Hi, my name is Ahmed Rohail Awan and I am a full-stack web developer with 1+ years of experience with modern technologies like React js, Node js, Express JS, Next js, Mongo DB etc.. </p>
-        <a href="https://www.linkedin.com/in/ahmedrohailawan/" target="_blank" rel="noopener noreferrer">Hire me</a>
+        <h2>I'm Praharsh</h2>
+        <p>isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin</p>
         </div>
       </div>
     </div>

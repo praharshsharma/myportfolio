@@ -33,6 +33,11 @@
     text-align: left;
 }
 
+.box img{
+    height: 10vh;
+    width: 10vh;
+}
+
 @media only screen and (max-width: 1000px) {
     .services .card{
         margin: 2rem 2rem;
@@ -41,6 +46,7 @@
 }
 @media only screen and (max-width: 780px) {
     .services .card .box{
+        width: 100%;
         height: auto;
     }
     .services .card{
