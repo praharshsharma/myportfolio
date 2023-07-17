@@ -15,7 +15,7 @@ import img1 from  '../../images/uniedwise.png'
 function Project() {
   useEffect(() =>{
     Aos.init({
-      duration : 500
+      duration : 100
     })
   },[])
   return (
