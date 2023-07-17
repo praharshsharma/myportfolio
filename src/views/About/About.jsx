@@ -22,8 +22,8 @@ function About() {
         <img src={img9} alt="" />
         </div>
         <div  className="right-content">
-        <h2>I'm Praharsh</h2>
-        <p>isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin isabdisibcsicsin</p>
+        <h2>Hello, I'm Praharsh Sharma, a MERN stack developer based in Vadodara, Gujarat</h2>
+        <p>With expertise in the MERN (MongoDB, Express.js, React.js, Node.js) stack, I specialize in building robust and scalable web applications. From developing efficient back-end systems to crafting seamless user experiences, I bring a comprehensive approach to software development. With a passion for clean code and innovative solutions, I'm dedicated to delivering high-quality web applications using the power of the MERN stack.</p>
         </div>
       </div>
     </div>
