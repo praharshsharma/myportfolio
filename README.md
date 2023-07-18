@@ -48,7 +48,7 @@ http://localhost:3000/
 
 # About
 
-This project was built using `React`, a popular JavaScript library for building user interfaces. 
+This project is built using `React`, a popular JavaScript library for building user interfaces. 
 The website is designed by breaking down the different parts of the page into reusable `components`. 
 Each component focuses on a specific functionality or section, allowing for easy maintenance and scalability.
 
