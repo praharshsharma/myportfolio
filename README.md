@@ -49,7 +49,7 @@ http://localhost:3000/
 # About
 
 This project was built using `React`, a popular JavaScript library for building user interfaces. 
-The website was designed by breaking down the different parts of the page into reusable `components`. 
+The website is designed by breaking down the different parts of the page into reusable `components`. 
 Each component focuses on a specific functionality or section, allowing for easy maintenance and scalability.
 
 The `useEffect` hooks in React is used to handle any necessary side effects within these components. 
